@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    flex-direction:column;
+    position:absolute;
+    margin-left: 5px;
+    width:225px;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+form {
+    background-color: aquamarine;
+}
+.button input{
+    width: 100px;
+    height: 45px;
+    font-size: 22px;
+    margin: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px opx 3px black;
+}
